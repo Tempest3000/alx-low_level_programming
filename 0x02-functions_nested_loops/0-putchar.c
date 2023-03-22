@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * main - print _putchar
- * is written by bwave
+ * is wriiten by mbah
  * Return: 0
  */
 
